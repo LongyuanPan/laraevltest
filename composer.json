@@ -1,0 +1,12 @@
+{
+    "name": "angkee/laradmin",
+    "description": "laravl扩展包开发测试",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "潘清湖",
+            "email": "1213618287@qq.com"
+        }
+    ],
+    "require": {}
+}
