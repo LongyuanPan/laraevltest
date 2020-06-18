@@ -8,5 +8,10 @@
             "email": "1213618287@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Pan\\Laraveltest\\": "src"
+        }
+    },
     "require": {}
 }
