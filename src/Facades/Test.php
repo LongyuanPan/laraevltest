@@ -1,5 +1,5 @@
 <?php
-namespace Pan\laraveltest\Facades;
+namespace Pan\Laraveltest\Facades;
 
 use Illuminate\Support\Facades\Facade;
 class Test extends Facade
