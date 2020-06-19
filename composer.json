@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Pan\\Laraveltest\\": "src"
+            "Pan\\Laraveltest\\": "src/"
         }
     },
     "require": {}
