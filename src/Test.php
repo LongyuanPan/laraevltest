@@ -6,7 +6,7 @@
  * Time: 14:06
  */
 
-namespace Pan\laraveltest;
+namespace Pan\Laraveltest;
 
 use Illuminate\Config\Repository;
 
