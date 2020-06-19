@@ -1,6 +1,6 @@
 <?php
 
-namespace Pan\laraveltest;
+namespace Pan\Laraveltest;
 
 use Illuminate\Support\ServiceProvider;
 
